@@ -24,9 +24,9 @@ This repository heavily borrows from「[facebookresearch/maskrcnn-benchmark](htt
   3. [Models](#models)
      1. [Architectures](#architectires)
      2. [Encoders](#encoders)
-        4. [Run](#run)
-           1. [Training](#training)
-           2. [Testing](#testing)
+  4. [Run](#run)
+   1. [Training](#training)
+   2. [Testing](#testing)
 
 ### Preparation <a name="preparation"></a>
 
@@ -465,7 +465,7 @@ nnictl create --config ./nni_config.yml
 
 Once you have run successfully, you can get following like interface. For more information, you can visit「[microsoft/nni](https://github.com/microsoft/nni)」.
 
-![image-20200607194154947](.\README.assets\ui.png)
+![ui](./README.assets/ui.png)
 
 ### 2. Testing<a name="testing"></a>
 
