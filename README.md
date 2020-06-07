@@ -25,8 +25,8 @@ This repository heavily borrows from「[facebookresearch/maskrcnn-benchmark](htt
      1. [Architectures](#architectires)
      2. [Encoders](#encoders)
   4. [Run](#run)
-   1. [Training](#training)
-   2. [Testing](#testing)
+     1. [Training](#training)
+     1. [Testing](#testing)
 
 ### Preparation <a name="preparation"></a>
 
