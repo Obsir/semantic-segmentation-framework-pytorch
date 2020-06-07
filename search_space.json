@@ -1,0 +1,35 @@
+{
+  "SOLVER.MAX_EPOCH": {
+    "_type": "choice",
+    "_value": [
+      60
+    ]
+  },
+  "SOLVER.IMS_PER_BATCH_TRAIN": {
+    "_type": "choice",
+    "_value": [
+      32
+    ]
+  },
+  "SOLVER.BASE_LR": {
+    "_type": "choice",
+    "_value": [
+      0.0001
+    ]
+  },
+  "MODEL.ENCODER": {
+    "_type": "choice",
+    "_value": [
+      "resnet50",
+      "mobilenet_v2",
+    ]
+  },
+  "MODEL.ARCHITECTURE": {
+    "_type": "choice",
+    "_value": [
+      "Unet",
+      "FPN",
+      "DeepLabV3"
+    ]
+  }
+}

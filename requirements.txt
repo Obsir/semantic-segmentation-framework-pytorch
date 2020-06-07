@@ -1,0 +1,14 @@
+opencv_python
+tqdm
+numpy
+albumentations
+torch
+scipy
+torchvision
+efficientnet_pytorch
+inplace_abn
+nni
+Pillow
+pretrainedmodels
+timm
+yacs
